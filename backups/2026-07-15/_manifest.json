@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-07-16T02:59:31.538Z",
+  "date": "2026-07-15",
+  "stats": {
+    "amlurb_cadastros": 182,
+    "obra_limpa_abc_cadastros": 15,
+    "ctr_guarulhos_cadastros": 70,
+    "liberacao_bombeiros": 0,
+    "service_prices": 43,
+    "service_price_taxes": 3,
+    "calendar_notes": 0,
+    "service_records": 1591,
+    "tax_payments": 45,
+    "client_contacts": 636,
+    "comprovantes": 133,
+    "creditos_pendentes": 3,
+    "daily_backups": 18,
+    "dsv_envio_clientes": 47,
+    "dsv_envios_envelopes": 7,
+    "equipment_expenses": 27,
+    "historico_recebimentos": 119,
+    "orcamentos_historico": 4,
+    "taxas_pendentes": 19,
+    "user_autoload_settings": 1,
+    "user_roles": 2
+  },
+  "total": 2965
+}
